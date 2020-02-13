@@ -3,6 +3,7 @@ using SalesWebMvc.Models.Enums;
 using System;
 using System.Linq;
 
+
 namespace SalesWebMvc.Data
 {
     public class SeedingService
